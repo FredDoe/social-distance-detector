@@ -10,7 +10,7 @@ Social distancing detector built with OpenCV using YOLO object detector
 1. Clone the repository
 
 ```bash
-   $ git clone git@github.com/FredDoe/social-distance-detector.git
+   $ git clone git@github.com:FredDoe/social-distance-detector.git
    $ cd social-distance-detector
 ```
 
@@ -47,3 +47,17 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 
 ## Demo :movie_camera:
 ![raw-vid](res/demo0.gif "Unprocessed video") ![processed-vid](res/demo1.gif "Processed video")
+
+
+
+## References :book:
+* Inspiration from Adrian Rosebrock's <a href="https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/">OpenCV Social Distancing Detector</a> :heart:
+* <a href="https://en.wikipedia.org/wiki/Social_distancing">Social Distancing</a>
+* <a href="https://www.reddit.com/r/computervision/comments/gf4zhj/automatic_social_distance_measurement/">Automatic social distance measurement</a>
+* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6661455400346492928/">Rohit Kumar Srivastava’s social distancing implementation</a>
+* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655464103798157312/">Venkatagiri Ramesh’s social distancing project</a>
+
+
+## License :key:
+
+MIT &copy; Godfred Doe
